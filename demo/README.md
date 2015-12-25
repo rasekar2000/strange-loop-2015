@@ -1,5 +1,8 @@
 # Strange Loop 2015
 
+## Youtube video reference
+https://www.youtube.com/watch?v=pozC9rBvAIs
+
 ## Hello World
 
 ```
